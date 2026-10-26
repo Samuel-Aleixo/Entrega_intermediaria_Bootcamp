@@ -61,8 +61,5 @@ docker compose run --rm tasktracker
 python src/main.py
 ```
 
-## Vídeo de apresentação
-- Fase 3: COLE-AQUI-O-LINK-DO-VIDEO-DA-FASE-3
-
 ## Autor
 Samuel Aleixo Amantéa – Ciência de Dados, UniCEUB
